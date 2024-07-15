@@ -1,4 +1,4 @@
-# IOT-PROJECT-GOOGLE-FIREBASE-USING-NodeMCU-ESP8266-
+# IOT PROJECT: GOOGLE FIREBASE USING NodeMCU ESP8266
 
 
 ## AIM
@@ -82,11 +82,11 @@ To create a Firebase project with a realtime database and store and read data fr
 
 ### Error 1 -   Firebase-ESP-Client Library installation
 <br> How to rectify:
-(1)  Need to find suitable library
-(2)  Open above link address -> download ZIP file
-(3)  Go to Arduino IDE -> sketch -> include library -> add ZIP file -> downloads -> select downloaded zip file -> close
+<br> (1)  Need to find suitable library
+<br> (2)  Open above link address -> download ZIP file
+<br> (3)  Go to Arduino IDE -> sketch -> include library -> add ZIP file -> downloads -> select downloaded zip file -> close
 
-### Error 2 -   Token info: type = id token, status = on request <br> Token error: message: is not connected <br> Token info: type = id token, status = error
+### Error 2 -   Token info: type = id token, status = on request <br>         Token error: message: is not connected <br>      Token info: type = id token, status = error
 <br> How to rectify:
 <br> This issue faced because of poor network connection. Try to find a stable network connection and upload.
 
@@ -100,4 +100,5 @@ To create a Firebase project with a realtime database and store and read data fr
 
 
 ## REFERENCES
+
 <br> Google firebase project creation : https://www.javatpoint.com/iot-project-google-firebase-nodemcu
